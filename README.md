@@ -1,8 +1,8 @@
 # Alpicool ESP32 MQTT Gateway (Improved Fork)
 
-This project allows you to control and monitor Alpicool (and compatible) fridges over WiFi and MQTT using an ESP32. It bridges the proprietary BLE protocol of the fridge to a standard MQTT interface, making it perfect for Home Assistant integration.
+This project allows you to control and monitor Alpicool and compatible fridges (like the **Vevor C50**) over WiFi and MQTT using an ESP32. It bridges the proprietary BLE protocol of the fridge to a standard MQTT interface, making it perfect for Home Assistant integration.
 
-This is an **improved and actively maintained fork** of the original project, containing several critical bugfixes and new features to ensure rock-solid stability and modern usability.
+This is an **improved and actively maintained fork** of the original project, containing several critical bugfixes and new features to ensure rock-solid stability. Tested and verified working perfectly with the **Vevor C50** model.
 
 ## 🚀 Key Improvements in this Fork
 
@@ -125,5 +125,10 @@ mqtt:
       unit_of_measurement: "V"
       value_template: "{{ value_json.f_voltage | round(2, 'floor') }}"
 ```
+
+## ✅ Tested Devices
+- **Vevor C50** (Works perfectly)
+- *Compatible with most Alpicool models using the standard BLE protocol.*
+
 ## 🌟 Special Thanks
 Special thanks to the original author for the foundational BLE decoding and payload management!
