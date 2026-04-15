@@ -1,0 +1,5 @@
+src/config/config.h
+.pio/
+.vscode/
+*env*/
+pio-env/

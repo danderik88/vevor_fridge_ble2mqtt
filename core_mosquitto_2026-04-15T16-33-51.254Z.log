@@ -1,0 +1,500 @@
+2026-04-15 11:54:37: New connection from 172.30.32.2:40244 on port 1883.
+2026-04-15 11:54:37: Client 172.30.32.2 [172.30.32.2:40244] disconnected: connection closed by client.
+2026-04-15 11:56:37: New connection from 172.30.32.2:50988 on port 1883.
+2026-04-15 11:56:37: Client 172.30.32.2 [172.30.32.2:50988] disconnected: connection closed by client.
+2026-04-15 11:58:38: New connection from 172.30.32.2:42458 on port 1883.
+2026-04-15 11:58:38: Client 172.30.32.2 [172.30.32.2:42458] disconnected: connection closed by client.
+2026-04-15 12:00:38: New connection from 172.30.32.2:34230 on port 1883.
+2026-04-15 12:00:38: Client 172.30.32.2 [172.30.32.2:34230] disconnected: connection closed by client.
+2026-04-15 12:02:38: New connection from 172.30.32.2:54066 on port 1883.
+2026-04-15 12:02:38: Client 172.30.32.2 [172.30.32.2:54066] disconnected: connection closed by client.
+2026-04-15 12:04:38: New connection from 172.30.32.2:47198 on port 1883.
+2026-04-15 12:04:38: Client 172.30.32.2 [172.30.32.2:47198] disconnected: connection closed by client.
+2026-04-15 12:06:38: New connection from 172.30.32.2:50446 on port 1883.
+2026-04-15 12:06:38: Client 172.30.32.2 [172.30.32.2:50446] disconnected: connection closed by client.
+2026-04-15 12:08:38: New connection from 172.30.32.2:44196 on port 1883.
+2026-04-15 12:08:38: Client 172.30.32.2 [172.30.32.2:44196] disconnected: connection closed by client.
+2026-04-15 12:10:38: New connection from 172.30.32.2:34982 on port 1883.
+2026-04-15 12:10:38: Client 172.30.32.2 [172.30.32.2:34982] disconnected: connection closed by client.
+2026-04-15 12:12:38: New connection from 172.30.32.2:52832 on port 1883.
+2026-04-15 12:12:38: Client 172.30.32.2 [172.30.32.2:52832] disconnected: connection closed by client.
+2026-04-15 12:13:29: Saving in-memory database to /data//mosquitto.db.
+2026-04-15 12:14:38: New connection from 172.30.32.2:48564 on port 1883.
+2026-04-15 12:14:38: Client 172.30.32.2 [172.30.32.2:48564] disconnected: connection closed by client.
+2026-04-15 12:16:38: New connection from 172.30.32.2:48228 on port 1883.
+2026-04-15 12:16:38: Client 172.30.32.2 [172.30.32.2:48228] disconnected: connection closed by client.
+2026-04-15 12:18:38: New connection from 172.30.32.2:46540 on port 1883.
+2026-04-15 12:18:38: Client 172.30.32.2 [172.30.32.2:46540] disconnected: connection closed by client.
+2026-04-15 12:20:38: New connection from 172.30.32.2:33174 on port 1883.
+2026-04-15 12:20:38: Client 172.30.32.2 [172.30.32.2:33174] disconnected: connection closed by client.
+2026-04-15 12:22:38: New connection from 172.30.32.2:52026 on port 1883.
+2026-04-15 12:22:38: Client 172.30.32.2 [172.30.32.2:52026] disconnected: connection closed by client.
+2026-04-15 12:24:38: New connection from 172.30.32.2:52914 on port 1883.
+2026-04-15 12:24:38: Client 172.30.32.2 [172.30.32.2:52914] disconnected: connection closed by client.
+2026-04-15 12:26:38: New connection from 172.30.32.2:57388 on port 1883.
+2026-04-15 12:26:38: Client 172.30.32.2 [172.30.32.2:57388] disconnected: connection closed by client.
+2026-04-15 12:28:38: New connection from 172.30.32.2:57710 on port 1883.
+2026-04-15 12:28:38: Client 172.30.32.2 [172.30.32.2:57710] disconnected: connection closed by client.
+2026-04-15 12:30:38: New connection from 172.30.32.2:38352 on port 1883.
+2026-04-15 12:30:38: Client 172.30.32.2 [172.30.32.2:38352] disconnected: connection closed by client.
+2026-04-15 12:32:38: New connection from 172.30.32.2:34946 on port 1883.
+2026-04-15 12:32:38: Client 172.30.32.2 [172.30.32.2:34946] disconnected: connection closed by client.
+2026-04-15 12:34:38: New connection from 172.30.32.2:48488 on port 1883.
+2026-04-15 12:34:38: Client 172.30.32.2 [172.30.32.2:48488] disconnected: connection closed by client.
+2026-04-15 12:36:38: New connection from 172.30.32.2:58948 on port 1883.
+2026-04-15 12:36:38: Client 172.30.32.2 [172.30.32.2:58948] disconnected: connection closed by client.
+2026-04-15 12:38:38: New connection from 172.30.32.2:59888 on port 1883.
+2026-04-15 12:38:38: Client 172.30.32.2 [172.30.32.2:59888] disconnected: connection closed by client.
+2026-04-15 12:40:38: New connection from 172.30.32.2:38662 on port 1883.
+2026-04-15 12:40:38: Client 172.30.32.2 [172.30.32.2:38662] disconnected: connection closed by client.
+2026-04-15 12:42:38: New connection from 172.30.32.2:45500 on port 1883.
+2026-04-15 12:42:38: Client 172.30.32.2 [172.30.32.2:45500] disconnected: connection closed by client.
+2026-04-15 12:43:30: Saving in-memory database to /data//mosquitto.db.
+2026-04-15 12:44:38: New connection from 172.30.32.2:39586 on port 1883.
+2026-04-15 12:44:38: Client 172.30.32.2 [172.30.32.2:39586] disconnected: connection closed by client.
+2026-04-15 12:46:38: New connection from 172.30.32.2:45016 on port 1883.
+2026-04-15 12:46:38: Client 172.30.32.2 [172.30.32.2:45016] disconnected: connection closed by client.
+2026-04-15 12:48:38: New connection from 172.30.32.2:34548 on port 1883.
+2026-04-15 12:48:38: Client 172.30.32.2 [172.30.32.2:34548] disconnected: connection closed by client.
+2026-04-15 12:50:38: New connection from 172.30.32.2:47132 on port 1883.
+2026-04-15 12:50:38: Client 172.30.32.2 [172.30.32.2:47132] disconnected: connection closed by client.
+2026-04-15 12:52:38: New connection from 172.30.32.2:38316 on port 1883.
+2026-04-15 12:52:38: Client 172.30.32.2 [172.30.32.2:38316] disconnected: connection closed by client.
+2026-04-15 12:54:38: New connection from 172.30.32.2:35250 on port 1883.
+2026-04-15 12:54:38: Client 172.30.32.2 [172.30.32.2:35250] disconnected: connection closed by client.
+2026-04-15 12:56:38: New connection from 172.30.32.2:48440 on port 1883.
+2026-04-15 12:56:38: Client 172.30.32.2 [172.30.32.2:48440] disconnected: connection closed by client.
+2026-04-15 12:58:38: New connection from 172.30.32.2:47568 on port 1883.
+2026-04-15 12:58:38: Client 172.30.32.2 [172.30.32.2:47568] disconnected: connection closed by client.
+2026-04-15 13:00:38: New connection from 172.30.32.2:53982 on port 1883.
+2026-04-15 13:00:38: Client 172.30.32.2 [172.30.32.2:53982] disconnected: connection closed by client.
+2026-04-15 13:02:38: New connection from 172.30.32.2:51384 on port 1883.
+2026-04-15 13:02:38: Client 172.30.32.2 [172.30.32.2:51384] disconnected: connection closed by client.
+2026-04-15 13:04:38: New connection from 172.30.32.2:41134 on port 1883.
+2026-04-15 13:04:38: Client 172.30.32.2 [172.30.32.2:41134] disconnected: connection closed by client.
+2026-04-15 13:06:38: New connection from 172.30.32.2:37498 on port 1883.
+2026-04-15 13:06:38: Client 172.30.32.2 [172.30.32.2:37498] disconnected: connection closed by client.
+2026-04-15 13:08:38: New connection from 172.30.32.2:39380 on port 1883.
+2026-04-15 13:08:38: Client 172.30.32.2 [172.30.32.2:39380] disconnected: connection closed by client.
+2026-04-15 13:10:38: New connection from 172.30.32.2:58652 on port 1883.
+2026-04-15 13:10:38: Client 172.30.32.2 [172.30.32.2:58652] disconnected: connection closed by client.
+2026-04-15 13:12:38: New connection from 172.30.32.2:41060 on port 1883.
+2026-04-15 13:12:38: Client 172.30.32.2 [172.30.32.2:41060] disconnected: connection closed by client.
+2026-04-15 13:13:31: Saving in-memory database to /data//mosquitto.db.
+2026-04-15 13:14:38: New connection from 172.30.32.2:51062 on port 1883.
+2026-04-15 13:14:38: Client 172.30.32.2 [172.30.32.2:51062] disconnected: connection closed by client.
+2026-04-15 13:16:38: New connection from 172.30.32.2:32872 on port 1883.
+2026-04-15 13:16:38: Client 172.30.32.2 [172.30.32.2:32872] disconnected: connection closed by client.
+2026-04-15 13:18:38: New connection from 172.30.32.2:37456 on port 1883.
+2026-04-15 13:18:38: Client 172.30.32.2 [172.30.32.2:37456] disconnected: connection closed by client.
+2026-04-15 13:20:38: New connection from 172.30.32.2:34936 on port 1883.
+2026-04-15 13:20:38: Client 172.30.32.2 [172.30.32.2:34936] disconnected: connection closed by client.
+2026-04-15 13:22:38: New connection from 172.30.32.2:54930 on port 1883.
+2026-04-15 13:22:38: Client 172.30.32.2 [172.30.32.2:54930] disconnected: connection closed by client.
+2026-04-15 13:24:38: New connection from 172.30.32.2:53544 on port 1883.
+2026-04-15 13:24:38: Client 172.30.32.2 [172.30.32.2:53544] disconnected: connection closed by client.
+2026-04-15 13:26:38: New connection from 172.30.32.2:36484 on port 1883.
+2026-04-15 13:26:38: Client 172.30.32.2 [172.30.32.2:36484] disconnected: connection closed by client.
+2026-04-15 13:28:38: New connection from 172.30.32.2:33948 on port 1883.
+2026-04-15 13:28:38: Client 172.30.32.2 [172.30.32.2:33948] disconnected: connection closed by client.
+2026-04-15 13:30:38: New connection from 172.30.32.2:40364 on port 1883.
+2026-04-15 13:30:38: Client 172.30.32.2 [172.30.32.2:40364] disconnected: connection closed by client.
+2026-04-15 13:32:38: New connection from 172.30.32.2:51816 on port 1883.
+2026-04-15 13:32:38: Client 172.30.32.2 [172.30.32.2:51816] disconnected: connection closed by client.
+2026-04-15 13:34:38: New connection from 172.30.32.2:50186 on port 1883.
+2026-04-15 13:34:38: Client 172.30.32.2 [172.30.32.2:50186] disconnected: connection closed by client.
+2026-04-15 13:36:38: New connection from 172.30.32.2:45106 on port 1883.
+2026-04-15 13:36:38: Client 172.30.32.2 [172.30.32.2:45106] disconnected: connection closed by client.
+2026-04-15 13:38:38: New connection from 172.30.32.2:57434 on port 1883.
+2026-04-15 13:38:38: Client 172.30.32.2 [172.30.32.2:57434] disconnected: connection closed by client.
+2026-04-15 13:40:38: New connection from 172.30.32.2:48320 on port 1883.
+2026-04-15 13:40:38: Client 172.30.32.2 [172.30.32.2:48320] disconnected: connection closed by client.
+2026-04-15 13:42:38: New connection from 172.30.32.2:57130 on port 1883.
+2026-04-15 13:42:38: Client 172.30.32.2 [172.30.32.2:57130] disconnected: connection closed by client.
+2026-04-15 13:43:32: Saving in-memory database to /data//mosquitto.db.
+2026-04-15 13:44:38: New connection from 172.30.32.2:53106 on port 1883.
+2026-04-15 13:44:38: Client 172.30.32.2 [172.30.32.2:53106] disconnected: connection closed by client.
+2026-04-15 13:46:38: New connection from 172.30.32.2:46224 on port 1883.
+2026-04-15 13:46:38: Client 172.30.32.2 [172.30.32.2:46224] disconnected: connection closed by client.
+2026-04-15 13:48:38: New connection from 172.30.32.2:37858 on port 1883.
+2026-04-15 13:48:38: Client 172.30.32.2 [172.30.32.2:37858] disconnected: connection closed by client.
+2026-04-15 13:50:38: New connection from 172.30.32.2:45956 on port 1883.
+2026-04-15 13:50:38: Client 172.30.32.2 [172.30.32.2:45956] disconnected: connection closed by client.
+2026-04-15 13:52:38: New connection from 172.30.32.2:41570 on port 1883.
+2026-04-15 13:52:38: Client 172.30.32.2 [172.30.32.2:41570] disconnected: connection closed by client.
+2026-04-15 13:54:38: New connection from 172.30.32.2:48690 on port 1883.
+2026-04-15 13:54:38: Client 172.30.32.2 [172.30.32.2:48690] disconnected: connection closed by client.
+2026-04-15 13:56:38: New connection from 172.30.32.2:33170 on port 1883.
+2026-04-15 13:56:38: Client 172.30.32.2 [172.30.32.2:33170] disconnected: connection closed by client.
+2026-04-15 13:58:38: New connection from 172.30.32.2:51756 on port 1883.
+2026-04-15 13:58:38: Client 172.30.32.2 [172.30.32.2:51756] disconnected: connection closed by client.
+2026-04-15 14:00:38: New connection from 172.30.32.2:34460 on port 1883.
+2026-04-15 14:00:38: Client 172.30.32.2 [172.30.32.2:34460] disconnected: connection closed by client.
+2026-04-15 14:02:38: New connection from 172.30.32.2:39656 on port 1883.
+2026-04-15 14:02:38: Client 172.30.32.2 [172.30.32.2:39656] disconnected: connection closed by client.
+2026-04-15 14:04:38: New connection from 172.30.32.2:59214 on port 1883.
+2026-04-15 14:04:38: Client 172.30.32.2 [172.30.32.2:59214] disconnected: connection closed by client.
+2026-04-15 14:06:38: New connection from 172.30.32.2:42726 on port 1883.
+2026-04-15 14:06:38: Client 172.30.32.2 [172.30.32.2:42726] disconnected: connection closed by client.
+2026-04-15 14:08:38: New connection from 172.30.32.2:54336 on port 1883.
+2026-04-15 14:08:38: Client 172.30.32.2 [172.30.32.2:54336] disconnected: connection closed by client.
+2026-04-15 14:10:38: New connection from 172.30.32.2:46846 on port 1883.
+2026-04-15 14:10:38: Client 172.30.32.2 [172.30.32.2:46846] disconnected: connection closed by client.
+2026-04-15 14:12:38: New connection from 172.30.32.2:57230 on port 1883.
+2026-04-15 14:12:38: Client 172.30.32.2 [172.30.32.2:57230] disconnected: connection closed by client.
+2026-04-15 14:13:33: Saving in-memory database to /data//mosquitto.db.
+2026-04-15 14:14:38: New connection from 172.30.32.2:50220 on port 1883.
+2026-04-15 14:14:38: Client 172.30.32.2 [172.30.32.2:50220] disconnected: connection closed by client.
+2026-04-15 14:16:38: New connection from 172.30.32.2:38414 on port 1883.
+2026-04-15 14:16:38: Client 172.30.32.2 [172.30.32.2:38414] disconnected: connection closed by client.
+2026-04-15 14:18:38: New connection from 172.30.32.2:57686 on port 1883.
+2026-04-15 14:18:38: Client 172.30.32.2 [172.30.32.2:57686] disconnected: connection closed by client.
+2026-04-15 14:20:38: New connection from 172.30.32.2:59440 on port 1883.
+2026-04-15 14:20:38: Client 172.30.32.2 [172.30.32.2:59440] disconnected: connection closed by client.
+2026-04-15 14:22:38: New connection from 172.30.32.2:42298 on port 1883.
+2026-04-15 14:22:38: Client 172.30.32.2 [172.30.32.2:42298] disconnected: connection closed by client.
+2026-04-15 14:24:38: New connection from 172.30.32.2:34946 on port 1883.
+2026-04-15 14:24:38: Client 172.30.32.2 [172.30.32.2:34946] disconnected: connection closed by client.
+2026-04-15 14:26:38: New connection from 172.30.32.2:52298 on port 1883.
+2026-04-15 14:26:38: Client 172.30.32.2 [172.30.32.2:52298] disconnected: connection closed by client.
+2026-04-15 14:28:38: New connection from 172.30.32.2:34428 on port 1883.
+2026-04-15 14:28:38: Client 172.30.32.2 [172.30.32.2:34428] disconnected: connection closed by client.
+2026-04-15 14:30:38: New connection from 172.30.32.2:40698 on port 1883.
+2026-04-15 14:30:38: Client 172.30.32.2 [172.30.32.2:40698] disconnected: connection closed by client.
+2026-04-15 14:32:38: New connection from 172.30.32.2:34966 on port 1883.
+2026-04-15 14:32:38: Client 172.30.32.2 [172.30.32.2:34966] disconnected: connection closed by client.
+2026-04-15 14:34:38: New connection from 172.30.32.2:53226 on port 1883.
+2026-04-15 14:34:38: Client 172.30.32.2 [172.30.32.2:53226] disconnected: connection closed by client.
+2026-04-15 14:36:38: New connection from 172.30.32.2:59884 on port 1883.
+2026-04-15 14:36:38: Client 172.30.32.2 [172.30.32.2:59884] disconnected: connection closed by client.
+2026-04-15 14:38:38: New connection from 172.30.32.2:52880 on port 1883.
+2026-04-15 14:38:38: Client 172.30.32.2 [172.30.32.2:52880] disconnected: connection closed by client.
+2026-04-15 14:40:38: New connection from 172.30.32.2:36548 on port 1883.
+2026-04-15 14:40:38: Client 172.30.32.2 [172.30.32.2:36548] disconnected: connection closed by client.
+2026-04-15 14:42:38: New connection from 172.30.32.2:41946 on port 1883.
+2026-04-15 14:42:38: Client 172.30.32.2 [172.30.32.2:41946] disconnected: connection closed by client.
+2026-04-15 14:43:34: Saving in-memory database to /data//mosquitto.db.
+2026-04-15 14:44:38: New connection from 172.30.32.2:51292 on port 1883.
+2026-04-15 14:44:38: Client 172.30.32.2 [172.30.32.2:51292] disconnected: connection closed by client.
+2026-04-15 14:46:38: New connection from 172.30.32.2:60836 on port 1883.
+2026-04-15 14:46:38: Client 172.30.32.2 [172.30.32.2:60836] disconnected: connection closed by client.
+2026-04-15 14:48:38: New connection from 172.30.32.2:47350 on port 1883.
+2026-04-15 14:48:38: Client 172.30.32.2 [172.30.32.2:47350] disconnected: connection closed by client.
+2026-04-15 14:50:38: New connection from 172.30.32.2:55170 on port 1883.
+2026-04-15 14:50:38: Client 172.30.32.2 [172.30.32.2:55170] disconnected: connection closed by client.
+2026-04-15 14:52:38: New connection from 172.30.32.2:53348 on port 1883.
+2026-04-15 14:52:38: Client 172.30.32.2 [172.30.32.2:53348] disconnected: connection closed by client.
+2026-04-15 14:54:38: New connection from 172.30.32.2:38678 on port 1883.
+2026-04-15 14:54:38: Client 172.30.32.2 [172.30.32.2:38678] disconnected: connection closed by client.
+2026-04-15 14:56:38: New connection from 172.30.32.2:53826 on port 1883.
+2026-04-15 14:56:38: Client 172.30.32.2 [172.30.32.2:53826] disconnected: connection closed by client.
+2026-04-15 14:58:38: New connection from 172.30.32.2:43320 on port 1883.
+2026-04-15 14:58:38: Client 172.30.32.2 [172.30.32.2:43320] disconnected: connection closed by client.
+2026-04-15 15:00:38: New connection from 172.30.32.2:55146 on port 1883.
+2026-04-15 15:00:38: Client 172.30.32.2 [172.30.32.2:55146] disconnected: connection closed by client.
+2026-04-15 15:02:38: New connection from 172.30.32.2:48404 on port 1883.
+2026-04-15 15:02:38: Client 172.30.32.2 [172.30.32.2:48404] disconnected: connection closed by client.
+2026-04-15 15:04:38: New connection from 172.30.32.2:56420 on port 1883.
+2026-04-15 15:04:38: Client 172.30.32.2 [172.30.32.2:56420] disconnected: connection closed by client.
+2026-04-15 15:06:38: New connection from 172.30.32.2:42416 on port 1883.
+2026-04-15 15:06:38: Client 172.30.32.2 [172.30.32.2:42416] disconnected: connection closed by client.
+2026-04-15 15:08:38: New connection from 172.30.32.2:48724 on port 1883.
+2026-04-15 15:08:38: Client 172.30.32.2 [172.30.32.2:48724] disconnected: connection closed by client.
+2026-04-15 15:10:38: New connection from 172.30.32.2:51134 on port 1883.
+2026-04-15 15:10:38: Client 172.30.32.2 [172.30.32.2:51134] disconnected: connection closed by client.
+s6-rc: info: service legacy-services: stopping
+2026-04-15 15:11:33: mosquitto version 2.1.2 terminating
+2026-04-15 15:11:33: Saving in-memory database to /data//mosquitto.db.
+[13:11:35] INFO: [32mService restart after closing[0m
+
+[15:11:36] INFO: [32mService restart after closing[0m
+s6-svwait: fatal: timed out
+s6-rc: info: service legacy-services successfully stopped
+s6-rc: info: service legacy-cont-init: stopping
+s6-rc: info: service legacy-cont-init successfully stopped
+s6-rc: info: service fix-attrs: stopping
+s6-rc: info: service fix-attrs successfully stopped
+s6-rc: warning: service s6rc-oneshot-runner is marked as essential, not stopping it
+s6-rc: info: service s6rc-oneshot-runner: starting
+s6-rc: info: service s6rc-oneshot-runner successfully started
+s6-rc: info: service fix-attrs: starting
+s6-rc: info: service fix-attrs successfully started
+s6-rc: info: service legacy-cont-init: starting
+cont-init: info: running /etc/cont-init.d/mosquitto.sh
+[15:11:50] INFO: [32mCertificates found: SSL is available[0m
+cont-init: info: /etc/cont-init.d/mosquitto.sh exited 0
+cont-init: info: running /etc/cont-init.d/nginx.sh
+cont-init: info: /etc/cont-init.d/nginx.sh exited 0
+s6-rc: info: service legacy-cont-init successfully started
+s6-rc: info: service legacy-services: starting
+services-up: info: copying legacy longrun mosquitto (no readiness notification)
+services-up: info: copying legacy longrun nginx (no readiness notification)
+[15:11:51] INFO: [32mStarting NGINX for authentication handling...[0m
+s6-rc: info: service legacy-services successfully started
+[15:11:51] INFO: [32mStarting mosquitto MQTT broker...[0m
+2026-04-15 15:11:51: Info: running mosquitto as user: root.
+2026-04-15 15:11:51: Warning: Mosquitto should not be run as root/administrator.
+2026-04-15 15:11:51: Restored 103 base messages
+2026-04-15 15:11:51: Restored 103 retained messages
+2026-04-15 15:11:51: Restored 0 clients
+2026-04-15 15:11:51: Restored 0 subscriptions
+2026-04-15 15:11:51: Restored 0 client messages
+2026-04-15 15:11:51: mosquitto version 2.1.2 starting
+2026-04-15 15:11:51: Config loaded from /etc/mosquitto/mosquitto.conf.
+2026-04-15 15:11:51: Bridge support available.
+2026-04-15 15:11:51: Persistence support available.
+2026-04-15 15:11:51: TLS support available.
+2026-04-15 15:11:51: TLS-PSK support available.
+2026-04-15 15:11:51: Websockets support available.
+2026-04-15 15:11:51: Loading plugin: /usr/share/mosquitto/go-auth.so
+2026-04-15 15:11:51:  ├── Username/password checking enabled.
+2026-04-15 15:11:51:  ├── TLS-PSK checking enabled.
+2026-04-15 15:11:51:  └── Extended authentication not enabled.
+2026-04-15 15:11:51: Plugin has registered to receive 'reload' events.
+2026-04-15 15:11:51: Plugin has registered to receive 'basic-auth' events.
+2026-04-15 15:11:51: Plugin has registered to receive 'acl-check' events.
+2026-04-15 15:11:51: Plugin has registered to receive 'psk-key' events.
+2026-04-15 15:11:51: Opening ipv4 listen socket on port 1883.
+2026-04-15 15:11:51: Opening ipv6 listen socket on port 1883.
+2026-04-15 15:11:51: Opening ipv4 listen socket on port 1884.
+2026-04-15 15:11:51: Opening ipv6 listen socket on port 1884.
+2026-04-15 15:11:51: Opening ipv4 listen socket on port 8883.
+2026-04-15 15:11:51: Opening ipv6 listen socket on port 8883.
+2026-04-15 15:11:51: Opening ipv4 listen socket on port 8884.
+2026-04-15 15:11:51: Opening ipv6 listen socket on port 8884.
+2026-04-15 15:11:51: mosquitto version 2.1.2 running
+2026-04-15 15:11:52: New connection from ::1:36266 on port 1883.
+2026-04-15 15:11:52: Protocol error from ::1:36266: First packet not CONNECT (0A).
+2026-04-15 15:11:52: Client ::1 [::1:36266] disconnected: protocol error.
+[15:11:52] INFO: [32mSuccessfully send discovery information to Home Assistant.[0m
+2026-04-15 15:11:52: New connection from 172.30.33.2:55174 on port 1883.
+[15:11:52] INFO: [32mSuccessfully send service information to the Supervisor.[0m
+2026-04-15 15:11:52: New client connected from 172.30.33.2:55174 as mqttjs_3a06e246 (p4, c1, k60, u'addons').
+2026-04-15 15:11:58: New connection from 172.30.32.1:57243 on port 1883.
+2026-04-15 15:11:58: New client connected from 172.30.32.1:57243 as 0d2RBlqDNPdHjXVOurmzsd (p4, c1, k60, u'homeassistant').
+2026-04-15 15:12:09: New connection from 172.30.33.3:53497 on port 1883.
+2026-04-15 15:12:10: Client 172.30.33.3 [172.30.33.3:53497] disconnected: connection closed by client.
+2026-04-15 15:12:10: New connection from 172.30.33.3:49841 on port 1883.
+2026-04-15 15:12:10: New client connected from 172.30.33.3:49841 as auto-72178105-B7F2-1846-6B00-D147DDFA5D77 (p4, c1, k60, u'mqtt-user').
+2026-04-15 15:12:38: New connection from 172.30.32.2:60152 on port 1883.
+2026-04-15 15:12:38: Client 172.30.32.2 [172.30.32.2:60152] disconnected: connection closed by client.
+2026-04-15 15:14:38: New connection from 172.30.32.2:55794 on port 1883.
+2026-04-15 15:14:38: Client 172.30.32.2 [172.30.32.2:55794] disconnected: connection closed by client.
+2026-04-15 15:16:38: New connection from 172.30.32.2:59224 on port 1883.
+2026-04-15 15:16:38: Client 172.30.32.2 [172.30.32.2:59224] disconnected: connection closed by client.
+2026-04-15 15:18:38: New connection from 172.30.32.2:36324 on port 1883.
+2026-04-15 15:18:38: Client 172.30.32.2 [172.30.32.2:36324] disconnected: connection closed by client.
+2026-04-15 15:20:38: New connection from 172.30.32.2:41048 on port 1883.
+2026-04-15 15:20:38: Client 172.30.32.2 [172.30.32.2:41048] disconnected: connection closed by client.
+2026-04-15 15:22:38: New connection from 172.30.32.2:56322 on port 1883.
+2026-04-15 15:22:38: Client 172.30.32.2 [172.30.32.2:56322] disconnected: connection closed by client.
+2026-04-15 15:24:38: New connection from 172.30.32.2:51196 on port 1883.
+2026-04-15 15:24:38: Client 172.30.32.2 [172.30.32.2:51196] disconnected: connection closed by client.
+2026-04-15 15:26:38: New connection from 172.30.32.2:52642 on port 1883.
+2026-04-15 15:26:38: Client 172.30.32.2 [172.30.32.2:52642] disconnected: connection closed by client.
+2026-04-15 15:28:38: New connection from 172.30.32.2:45044 on port 1883.
+2026-04-15 15:28:38: Client 172.30.32.2 [172.30.32.2:45044] disconnected: connection closed by client.
+2026-04-15 15:30:38: New connection from 172.30.32.2:42966 on port 1883.
+2026-04-15 15:30:38: Client 172.30.32.2 [172.30.32.2:42966] disconnected: connection closed by client.
+2026-04-15 15:32:38: New connection from 172.30.32.2:57136 on port 1883.
+2026-04-15 15:32:38: Client 172.30.32.2 [172.30.32.2:57136] disconnected: connection closed by client.
+2026-04-15 15:32:47: Client 0d2RBlqDNPdHjXVOurmzsd [172.30.32.1:57243] disconnected: connection closed by client.
+2026-04-15 15:33:56: New connection from 172.30.32.1:57019 on port 1883.
+2026-04-15 15:33:56: New client connected from 172.30.32.1:57019 as 0OsSVOGXMkQW12YhkotuDW (p4, c1, k60, u'homeassistant').
+2026-04-15 15:34:38: New connection from 172.30.32.2:37004 on port 1883.
+2026-04-15 15:34:38: Client 172.30.32.2 [172.30.32.2:37004] disconnected: connection closed by client.
+2026-04-15 15:36:38: New connection from 172.30.32.2:59320 on port 1883.
+2026-04-15 15:36:38: Client 172.30.32.2 [172.30.32.2:59320] disconnected: connection closed by client.
+2026-04-15 15:38:38: New connection from 172.30.32.2:42046 on port 1883.
+2026-04-15 15:38:38: Client 172.30.32.2 [172.30.32.2:42046] disconnected: connection closed by client.
+2026-04-15 15:40:38: New connection from 172.30.32.2:41708 on port 1883.
+2026-04-15 15:40:38: Client 172.30.32.2 [172.30.32.2:41708] disconnected: connection closed by client.
+2026-04-15 15:41:52: Saving in-memory database to /data//mosquitto.db.
+2026-04-15 15:42:38: New connection from 172.30.32.2:45348 on port 1883.
+2026-04-15 15:42:38: Client 172.30.32.2 [172.30.32.2:45348] disconnected: connection closed by client.
+2026-04-15 15:44:38: New connection from 172.30.32.2:53196 on port 1883.
+2026-04-15 15:44:38: Client 172.30.32.2 [172.30.32.2:53196] disconnected: connection closed by client.
+2026-04-15 15:45:22: Client 0OsSVOGXMkQW12YhkotuDW [172.30.32.1:57019] disconnected: connection closed by client.
+2026-04-15 15:45:59: New connection from 172.30.32.1:45809 on port 1883.
+2026-04-15 15:45:59: New client connected from 172.30.32.1:45809 as 06XqeNZFf0t8ctoro7OwKy (p4, c1, k60, u'homeassistant').
+2026-04-15 15:46:38: New connection from 172.30.32.2:43084 on port 1883.
+2026-04-15 15:46:38: Client 172.30.32.2 [172.30.32.2:43084] disconnected: connection closed by client.
+2026-04-15 15:48:38: New connection from 172.30.32.2:51064 on port 1883.
+2026-04-15 15:48:38: Client 172.30.32.2 [172.30.32.2:51064] disconnected: connection closed by client.
+2026-04-15 15:50:38: New connection from 172.30.32.2:54532 on port 1883.
+2026-04-15 15:50:38: Client 172.30.32.2 [172.30.32.2:54532] disconnected: connection closed by client.
+2026-04-15 15:52:38: New connection from 172.30.32.2:38062 on port 1883.
+2026-04-15 15:52:38: Client 172.30.32.2 [172.30.32.2:38062] disconnected: connection closed by client.
+2026-04-15 15:54:38: New connection from 172.30.32.2:41740 on port 1883.
+2026-04-15 15:54:38: Client 172.30.32.2 [172.30.32.2:41740] disconnected: connection closed by client.
+2026-04-15 15:56:38: New connection from 172.30.32.2:59178 on port 1883.
+2026-04-15 15:56:38: Client 172.30.32.2 [172.30.32.2:59178] disconnected: connection closed by client.
+2026-04-15 15:58:38: New connection from 172.30.32.2:41046 on port 1883.
+2026-04-15 15:58:38: Client 172.30.32.2 [172.30.32.2:41046] disconnected: connection closed by client.
+2026-04-15 16:00:38: New connection from 172.30.32.2:33364 on port 1883.
+2026-04-15 16:00:38: Client 172.30.32.2 [172.30.32.2:33364] disconnected: connection closed by client.
+2026-04-15 16:02:38: New connection from 172.30.32.2:37076 on port 1883.
+2026-04-15 16:02:38: Client 172.30.32.2 [172.30.32.2:37076] disconnected: connection closed by client.
+2026-04-15 16:04:38: New connection from 172.30.32.2:49052 on port 1883.
+2026-04-15 16:04:38: Client 172.30.32.2 [172.30.32.2:49052] disconnected: connection closed by client.
+2026-04-15 16:06:38: New connection from 172.30.32.2:59408 on port 1883.
+2026-04-15 16:06:38: Client 172.30.32.2 [172.30.32.2:59408] disconnected: connection closed by client.
+2026-04-15 16:08:38: New connection from 172.30.32.2:33548 on port 1883.
+2026-04-15 16:08:38: Client 172.30.32.2 [172.30.32.2:33548] disconnected: connection closed by client.
+2026-04-15 16:10:38: New connection from 172.30.32.2:36120 on port 1883.
+2026-04-15 16:10:38: Client 172.30.32.2 [172.30.32.2:36120] disconnected: connection closed by client.
+2026-04-15 16:11:53: Saving in-memory database to /data//mosquitto.db.
+2026-04-15 16:12:38: New connection from 172.30.32.2:51220 on port 1883.
+2026-04-15 16:12:38: Client 172.30.32.2 [172.30.32.2:51220] disconnected: connection closed by client.
+2026-04-15 16:14:38: New connection from 172.30.32.2:41402 on port 1883.
+2026-04-15 16:14:38: Client 172.30.32.2 [172.30.32.2:41402] disconnected: connection closed by client.
+2026-04-15 16:16:38: New connection from 172.30.32.2:51362 on port 1883.
+2026-04-15 16:16:38: Client 172.30.32.2 [172.30.32.2:51362] disconnected: connection closed by client.
+2026-04-15 16:18:38: New connection from 172.30.32.2:45522 on port 1883.
+2026-04-15 16:18:38: Client 172.30.32.2 [172.30.32.2:45522] disconnected: connection closed by client.
+2026-04-15 16:20:38: New connection from 172.30.32.2:51252 on port 1883.
+2026-04-15 16:20:38: Client 172.30.32.2 [172.30.32.2:51252] disconnected: connection closed by client.
+2026-04-15 16:22:38: New connection from 172.30.32.2:59004 on port 1883.
+2026-04-15 16:22:38: Client 172.30.32.2 [172.30.32.2:59004] disconnected: connection closed by client.
+2026-04-15 16:24:38: New connection from 172.30.32.2:58220 on port 1883.
+2026-04-15 16:24:38: Client 172.30.32.2 [172.30.32.2:58220] disconnected: connection closed by client.
+2026-04-15 16:26:38: New connection from 172.30.32.2:45710 on port 1883.
+2026-04-15 16:26:38: Client 172.30.32.2 [172.30.32.2:45710] disconnected: connection closed by client.
+2026-04-15 16:28:38: New connection from 172.30.32.2:60134 on port 1883.
+2026-04-15 16:28:38: Client 172.30.32.2 [172.30.32.2:60134] disconnected: connection closed by client.
+2026-04-15 16:30:38: New connection from 172.30.32.2:56822 on port 1883.
+2026-04-15 16:30:38: Client 172.30.32.2 [172.30.32.2:56822] disconnected: connection closed by client.
+2026-04-15 16:32:38: New connection from 172.30.32.2:46812 on port 1883.
+2026-04-15 16:32:38: Client 172.30.32.2 [172.30.32.2:46812] disconnected: connection closed by client.
+2026-04-15 16:34:38: New connection from 172.30.32.2:39168 on port 1883.
+2026-04-15 16:34:38: Client 172.30.32.2 [172.30.32.2:39168] disconnected: connection closed by client.
+2026-04-15 16:36:38: New connection from 172.30.32.2:45832 on port 1883.
+2026-04-15 16:36:38: Client 172.30.32.2 [172.30.32.2:45832] disconnected: connection closed by client.
+2026-04-15 16:38:38: New connection from 172.30.32.2:46908 on port 1883.
+2026-04-15 16:38:38: Client 172.30.32.2 [172.30.32.2:46908] disconnected: connection closed by client.
+2026-04-15 16:40:38: New connection from 172.30.32.2:53750 on port 1883.
+2026-04-15 16:40:38: Client 172.30.32.2 [172.30.32.2:53750] disconnected: connection closed by client.
+2026-04-15 16:41:54: Saving in-memory database to /data//mosquitto.db.
+2026-04-15 16:42:38: New connection from 172.30.32.2:39972 on port 1883.
+2026-04-15 16:42:38: Client 172.30.32.2 [172.30.32.2:39972] disconnected: connection closed by client.
+2026-04-15 16:44:38: New connection from 172.30.32.2:43290 on port 1883.
+2026-04-15 16:44:38: Client 172.30.32.2 [172.30.32.2:43290] disconnected: connection closed by client.
+2026-04-15 16:46:38: New connection from 172.30.32.2:43852 on port 1883.
+2026-04-15 16:46:38: Client 172.30.32.2 [172.30.32.2:43852] disconnected: connection closed by client.
+2026-04-15 16:48:38: New connection from 172.30.32.2:57342 on port 1883.
+2026-04-15 16:48:38: Client 172.30.32.2 [172.30.32.2:57342] disconnected: connection closed by client.
+2026-04-15 16:50:38: New connection from 172.30.32.2:44316 on port 1883.
+2026-04-15 16:50:38: Client 172.30.32.2 [172.30.32.2:44316] disconnected: connection closed by client.
+2026-04-15 16:52:38: New connection from 172.30.32.2:34502 on port 1883.
+2026-04-15 16:52:38: Client 172.30.32.2 [172.30.32.2:34502] disconnected: connection closed by client.
+2026-04-15 16:54:38: New connection from 172.30.32.2:50320 on port 1883.
+2026-04-15 16:54:38: Client 172.30.32.2 [172.30.32.2:50320] disconnected: connection closed by client.
+2026-04-15 16:56:38: New connection from 172.30.32.2:57094 on port 1883.
+2026-04-15 16:56:38: Client 172.30.32.2 [172.30.32.2:57094] disconnected: connection closed by client.
+2026-04-15 16:58:38: New connection from 172.30.32.2:46022 on port 1883.
+2026-04-15 16:58:38: Client 172.30.32.2 [172.30.32.2:46022] disconnected: connection closed by client.
+2026-04-15 17:00:38: New connection from 172.30.32.2:41982 on port 1883.
+2026-04-15 17:00:38: Client 172.30.32.2 [172.30.32.2:41982] disconnected: connection closed by client.
+2026-04-15 17:02:38: New connection from 172.30.32.2:47160 on port 1883.
+2026-04-15 17:02:38: Client 172.30.32.2 [172.30.32.2:47160] disconnected: connection closed by client.
+2026-04-15 17:04:38: New connection from 172.30.32.2:37922 on port 1883.
+2026-04-15 17:04:38: Client 172.30.32.2 [172.30.32.2:37922] disconnected: connection closed by client.
+2026-04-15 17:06:38: New connection from 172.30.32.2:33792 on port 1883.
+2026-04-15 17:06:38: Client 172.30.32.2 [172.30.32.2:33792] disconnected: connection closed by client.
+2026-04-15 17:08:38: New connection from 172.30.32.2:41776 on port 1883.
+2026-04-15 17:08:38: Client 172.30.32.2 [172.30.32.2:41776] disconnected: connection closed by client.
+2026-04-15 17:10:38: New connection from 172.30.32.2:37850 on port 1883.
+2026-04-15 17:10:38: Client 172.30.32.2 [172.30.32.2:37850] disconnected: connection closed by client.
+2026-04-15 17:11:55: Saving in-memory database to /data//mosquitto.db.
+2026-04-15 17:12:38: New connection from 172.30.32.2:60424 on port 1883.
+2026-04-15 17:12:38: Client 172.30.32.2 [172.30.32.2:60424] disconnected: connection closed by client.
+2026-04-15 17:14:38: New connection from 172.30.32.2:57846 on port 1883.
+2026-04-15 17:14:38: Client 172.30.32.2 [172.30.32.2:57846] disconnected: connection closed by client.
+2026-04-15 17:16:38: New connection from 172.30.32.2:49834 on port 1883.
+2026-04-15 17:16:38: Client 172.30.32.2 [172.30.32.2:49834] disconnected: connection closed by client.
+2026-04-15 17:18:38: New connection from 172.30.32.2:42782 on port 1883.
+2026-04-15 17:18:38: Client 172.30.32.2 [172.30.32.2:42782] disconnected: connection closed by client.
+2026-04-15 17:19:11: Client 06XqeNZFf0t8ctoro7OwKy [172.30.32.1:45809] disconnected.
+2026-04-15 17:19:11: New connection from 172.30.32.1:54695 on port 1883.
+2026-04-15 17:19:11: New client connected from 172.30.32.1:54695 as 2Tsp34gM2nH7goqqPv36a5 (p4, c1, k60, u'homeassistant').
+2026-04-15 17:20:38: New connection from 172.30.32.2:43644 on port 1883.
+2026-04-15 17:20:38: Client 172.30.32.2 [172.30.32.2:43644] disconnected: connection closed by client.
+2026-04-15 17:22:38: New connection from 172.30.32.2:42794 on port 1883.
+2026-04-15 17:22:38: Client 172.30.32.2 [172.30.32.2:42794] disconnected: connection closed by client.
+2026-04-15 17:24:38: New connection from 172.30.32.2:43838 on port 1883.
+2026-04-15 17:24:38: Client 172.30.32.2 [172.30.32.2:43838] disconnected: connection closed by client.
+2026-04-15 17:26:38: New connection from 172.30.32.2:40322 on port 1883.
+2026-04-15 17:26:38: Client 172.30.32.2 [172.30.32.2:40322] disconnected: connection closed by client.
+2026-04-15 17:28:38: New connection from 172.30.32.2:43904 on port 1883.
+2026-04-15 17:28:38: Client 172.30.32.2 [172.30.32.2:43904] disconnected: connection closed by client.
+2026-04-15 17:30:38: New connection from 172.30.32.2:48434 on port 1883.
+2026-04-15 17:30:38: Client 172.30.32.2 [172.30.32.2:48434] disconnected: connection closed by client.
+2026-04-15 17:32:38: New connection from 172.30.32.2:53980 on port 1883.
+2026-04-15 17:32:38: Client 172.30.32.2 [172.30.32.2:53980] disconnected: connection closed by client.
+2026-04-15 17:34:38: New connection from 172.30.32.2:56424 on port 1883.
+2026-04-15 17:34:38: Client 172.30.32.2 [172.30.32.2:56424] disconnected: connection closed by client.
+2026-04-15 17:36:38: New connection from 172.30.32.2:58232 on port 1883.
+2026-04-15 17:36:38: Client 172.30.32.2 [172.30.32.2:58232] disconnected: connection closed by client.
+2026-04-15 17:38:38: New connection from 172.30.32.2:58038 on port 1883.
+2026-04-15 17:38:38: Client 172.30.32.2 [172.30.32.2:58038] disconnected: connection closed by client.
+2026-04-15 17:40:38: New connection from 172.30.32.2:40268 on port 1883.
+2026-04-15 17:40:38: Client 172.30.32.2 [172.30.32.2:40268] disconnected: connection closed by client.
+2026-04-15 17:41:56: Saving in-memory database to /data//mosquitto.db.
+2026-04-15 17:42:38: New connection from 172.30.32.2:56888 on port 1883.
+2026-04-15 17:42:38: Client 172.30.32.2 [172.30.32.2:56888] disconnected: connection closed by client.
+2026-04-15 17:44:38: New connection from 172.30.32.2:51136 on port 1883.
+2026-04-15 17:44:38: Client 172.30.32.2 [172.30.32.2:51136] disconnected: connection closed by client.
+2026-04-15 17:46:38: New connection from 172.30.32.2:40762 on port 1883.
+2026-04-15 17:46:38: Client 172.30.32.2 [172.30.32.2:40762] disconnected: connection closed by client.
+2026-04-15 17:48:38: New connection from 172.30.32.2:57916 on port 1883.
+2026-04-15 17:48:38: Client 172.30.32.2 [172.30.32.2:57916] disconnected: connection closed by client.
+2026-04-15 17:50:38: New connection from 172.30.32.2:37250 on port 1883.
+2026-04-15 17:50:38: Client 172.30.32.2 [172.30.32.2:37250] disconnected: connection closed by client.
+2026-04-15 17:52:11: New connection from 192.168.8.156:52811 on port 1883.
+2026-04-15 17:52:11: Client 192.168.8.156 [192.168.8.156:52811] disconnected: connection closed by client.
+2026-04-15 17:52:38: New connection from 172.30.32.2:45360 on port 1883.
+2026-04-15 17:52:38: Client 172.30.32.2 [172.30.32.2:45360] disconnected: connection closed by client.
+2026-04-15 17:54:38: New connection from 172.30.32.2:55416 on port 1883.
+2026-04-15 17:54:38: Client 172.30.32.2 [172.30.32.2:55416] disconnected: connection closed by client.
+2026-04-15 17:56:38: New connection from 172.30.32.2:46498 on port 1883.
+2026-04-15 17:56:38: Client 172.30.32.2 [172.30.32.2:46498] disconnected: connection closed by client.
+2026-04-15 17:58:38: New connection from 172.30.32.2:44068 on port 1883.
+2026-04-15 17:58:38: Client 172.30.32.2 [172.30.32.2:44068] disconnected: connection closed by client.
+2026-04-15 18:00:38: New connection from 172.30.32.2:60664 on port 1883.
+2026-04-15 18:00:38: Client 172.30.32.2 [172.30.32.2:60664] disconnected: connection closed by client.
+2026-04-15 18:02:38: New connection from 172.30.32.2:58654 on port 1883.
+2026-04-15 18:02:38: Client 172.30.32.2 [172.30.32.2:58654] disconnected: connection closed by client.
+2026-04-15 18:04:38: New connection from 172.30.32.2:52382 on port 1883.
+2026-04-15 18:04:38: Client 172.30.32.2 [172.30.32.2:52382] disconnected: connection closed by client.
+2026-04-15 18:06:38: New connection from 172.30.32.2:54204 on port 1883.
+2026-04-15 18:06:38: Client 172.30.32.2 [172.30.32.2:54204] disconnected: connection closed by client.
+2026-04-15 18:08:38: New connection from 172.30.32.2:52624 on port 1883.
+2026-04-15 18:08:38: Client 172.30.32.2 [172.30.32.2:52624] disconnected: connection closed by client.
+2026-04-15 18:10:38: New connection from 172.30.32.2:60048 on port 1883.
+2026-04-15 18:10:38: Client 172.30.32.2 [172.30.32.2:60048] disconnected: connection closed by client.
+2026-04-15 18:10:58: New connection from 192.168.8.156:52895 on port 1883.
+2026-04-15 18:10:58: New client connected from 192.168.8.156:52895 as auto-B9AE8902-C6BF-3AA8-4F0F-4160144C89FC (p4, c1, k10, u'mqtt-user').
+2026-04-15 18:10:58: Client auto-B9AE8902-C6BF-3AA8-4F0F-4160144C89FC [192.168.8.156:52895] disconnected: connection closed by client.
+2026-04-15 18:11:57: Saving in-memory database to /data//mosquitto.db.
+2026-04-15 18:12:38: New connection from 172.30.32.2:44188 on port 1883.
+2026-04-15 18:12:38: Client 172.30.32.2 [172.30.32.2:44188] disconnected: connection closed by client.
+2026-04-15 18:14:39: New connection from 172.30.32.2:41414 on port 1883.
+2026-04-15 18:14:39: Client 172.30.32.2 [172.30.32.2:41414] disconnected: connection closed by client.
+2026-04-15 18:16:39: New connection from 172.30.32.2:48072 on port 1883.
+2026-04-15 18:16:39: Client 172.30.32.2 [172.30.32.2:48072] disconnected: connection closed by client.
+2026-04-15 18:18:39: New connection from 172.30.32.2:59474 on port 1883.
+2026-04-15 18:18:39: Client 172.30.32.2 [172.30.32.2:59474] disconnected: connection closed by client.
+2026-04-15 18:20:39: New connection from 172.30.32.2:59092 on port 1883.
+2026-04-15 18:20:39: Client 172.30.32.2 [172.30.32.2:59092] disconnected: connection closed by client.
+2026-04-15 18:22:39: New connection from 172.30.32.2:42058 on port 1883.
+2026-04-15 18:22:39: Client 172.30.32.2 [172.30.32.2:42058] disconnected: connection closed by client.
+2026-04-15 18:24:39: New connection from 172.30.32.2:52328 on port 1883.
+2026-04-15 18:24:39: Client 172.30.32.2 [172.30.32.2:52328] disconnected: connection closed by client.
+2026-04-15 18:26:39: New connection from 172.30.32.2:40208 on port 1883.
+2026-04-15 18:26:39: Client 172.30.32.2 [172.30.32.2:40208] disconnected: connection closed by client.
+2026-04-15 18:28:39: New connection from 172.30.32.2:53394 on port 1883.
+2026-04-15 18:28:39: Client 172.30.32.2 [172.30.32.2:53394] disconnected: connection closed by client.
+2026-04-15 18:30:39: New connection from 172.30.32.2:56860 on port 1883.
+2026-04-15 18:30:39: Client 172.30.32.2 [172.30.32.2:56860] disconnected: connection closed by client.
+2026-04-15 18:32:39: New connection from 172.30.32.2:38358 on port 1883.
+2026-04-15 18:32:39: Client 172.30.32.2 [172.30.32.2:38358] disconnected: connection closed by client.
