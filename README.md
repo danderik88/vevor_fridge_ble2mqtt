@@ -131,4 +131,4 @@ mqtt:
 - *Compatible with most Alpicool models using the standard BLE protocol.*
 
 ## 🌟 Special Thanks
-Special thanks to the original author for the foundational BLE decoding and payload management!
+Special thanks to [jakub-hajek/alpicool-esp32-mqtt](https://github.com/jakub-hajek/alpicool-esp32-mqtt) for creating the original foundational project, BLE decoding and payload management!
