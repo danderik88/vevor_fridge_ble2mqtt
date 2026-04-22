@@ -32,8 +32,9 @@ void MqttHandler::reconnectMqtt() {
         last_connection_attempt = millis();
         ESP_LOGI("MQTT", "Attempting MQTT connection...");
         // Attempt to connect
-        if (client->connect(DEVICE_NAME, MQTT_USER, MQTT_PASSWORD)) {
+        if (client->connect(DEVICE_NAME, MQTT_USER, MQTT_PASSWORD, AVAILABILITY_TOPIC, 0, true, "offline")) {
           ESP_LOGI("MQTT", "connected");
+          client->publish(AVAILABILITY_TOPIC, "online", true);
           client->subscribe(COMMAND_TOPIC);
           ESP_LOGI("MQTT", "callback set");
         } else {

@@ -2,6 +2,7 @@ mqtt:
   climate:
     - name: "Alpicool fridge"
       unique_id: "alpicoolfriddgeuid"
+      availability_topic: "tele/alpicool/availability"
       max_temp: 20
       min_temp: -20
       modes:
@@ -41,6 +42,7 @@ mqtt:
   binary_sensor:
     - name: "Fridge On"
       unique_id: "zmkfridgeonoff"
+      availability_topic: "tele/alpicool/availability"
       state_topic: "tele/alpicool/sensor"
       payload_on: "True"
       payload_off: "False"
@@ -48,6 +50,7 @@ mqtt:
 
     - name: "Fridge Eco Mode"
       unique_id: "zmkfridgeecomode"
+      availability_topic: "tele/alpicool/availability"
       state_topic: "tele/alpicool/sensor"
       payload_on: "True"
       payload_off: "False"
@@ -56,6 +59,7 @@ mqtt:
   sensor:
     - name: "Fridge Set Temperature"
       unique_id: "zmkfridgessettemperature"
+      availability_topic: "tele/alpicool/availability"
       state_topic: "tele/alpicool/sensor"
       suggested_display_precision: 0
       unit_of_measurement: "°C"
@@ -63,6 +67,7 @@ mqtt:
 
     - name: "Fridge Temperature"
       unique_id: "zmkfridgetemperature"
+      availability_topic: "tele/alpicool/availability"
       state_topic: "tele/alpicool/sensor"
       suggested_display_precision: 0
       unit_of_measurement: "°C"
@@ -70,6 +75,7 @@ mqtt:
 
     - name: "Fridge Voltage"
       unique_id: "zmkfridgevoltage"
+      availability_topic: "tele/alpicool/availability"
       state_topic: "tele/alpicool/sensor"
       suggested_display_precision: 2
       unit_of_measurement: "V"

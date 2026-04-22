@@ -7,6 +7,10 @@ int connect_wifi(const char *ssid, const char *pass)
   if (WiFi.status() == WL_CONNECTED)
     return 0;
 
+  ESP_LOGI("WIFI", "Connecting to WiFi...");
+  WiFi.disconnect();
+  delay(100);
+  WiFi.setAutoReconnect(true);
   WiFi.begin(ssid, pass);
 
   if (WiFi.waitForConnectResult(5000) != WL_CONNECTED)

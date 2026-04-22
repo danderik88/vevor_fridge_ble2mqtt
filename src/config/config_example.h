@@ -23,6 +23,8 @@
 #define COMMAND_TOPIC "tele/alpicool/cmd"
 // topic to publish debug messages
 #define DEBUG_TOPIC "tele/alpicool/debug"
+// topic to publish availability (online/offline)
+#define AVAILABILITY_TOPIC "tele/alpicool/availability"
 
 // how often are state data send to mqtt
 #define DATA_PUBLISH_FREQ_MILLIS 1000
