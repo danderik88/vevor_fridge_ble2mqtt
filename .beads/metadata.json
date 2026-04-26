@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "vevor_fridge_ble2mqtt",
+  "project_id": "d5e8d353-a85c-41e2-aa79-c32a715128f6"
+}
