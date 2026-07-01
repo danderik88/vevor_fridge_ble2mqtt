@@ -10,6 +10,8 @@
 #include "utils/mqtt.h"
 #include "WiFi.h"
 #include "esp_coexist.h"
+#include "esp_system.h"
+#include "esp_task_wdt.h"
 
 
 
@@ -77,7 +79,16 @@ void setup_internal(void *p)
   //esp_log_set_vprintf(&vprintf);
   esp_log_level_set("*", ESP_LOG_INFO);
 
+  // Task WDT bites if loop_internal stops ticking. Complementary to the
+  // wifi_util escalation, which only fires if the loop keeps running.
+  esp_task_wdt_init(30, true);
+  esp_task_wdt_add(NULL);
+
   connect_to_wifi_int();
+  // Balance WiFi/BT airtime instead of always preferring BT. With a strong
+  // nearby BLE peer and a moderate-signal AP, PREFER_BT starves the WiFi
+  // link and eventually kills the association. Set once here, not per-tick.
+  esp_coex_preference_set(ESP_COEX_PREFER_BALANCE);
   ArduinoOTA.setHostname(DEVICE_NAME);
   ArduinoOTA.begin();
   fridge = new Fridge(BLEUUID("00001234-0000-1000-8000-00805f9b34fb"),
@@ -94,10 +105,9 @@ void setup_internal(void *p)
 
 void loop_internal()
 {
+  esp_task_wdt_reset();
   ArduinoOTA.handle();
   delay(50);
-  esp_coex_preference_set(ESP_COEX_PREFER_BT);
-  esp_log_level_set("*", ESP_LOG_INFO);
 
   blescanner->loop();
   mqtt->loop();
@@ -107,8 +117,7 @@ void loop_internal()
 
   if (millis() - lastWifi > 10000)
   {
-    const char *x = ("[APP] Free memory: " + String(esp_get_free_heap_size()) + " bytes").c_str();
-    ESP_LOGI("", "%s", x);
+    ESP_LOGI("", "[APP] Free memory: %u bytes", esp_get_free_heap_size());
     connect_to_wifi_int();
     lastWifi = millis();
   }
@@ -121,6 +130,7 @@ void loop_internal()
 void setup()
 {
   Serial.begin(115200);
+  ESP_LOGW("BOOT", "reset_reason=%d", (int)esp_reset_reason());
   setup_internal(NULL);
 
 }

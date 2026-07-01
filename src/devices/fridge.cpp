@@ -77,6 +77,7 @@ Fridge::Fridge(BLEUUID pserviceUUID,  BLEUUID pwriteCharUUID, BLEUUID preadCharU
     client = BLEDevice::createClient();
     client->setClientCallbacks(new FridgeClientCallbacks(this));
     client->setConnectionParams( 32,160,0,900 );
+    client->setConnectTimeout(10);
     lastLoop = 0;
     lastMessageMillis = 0;
 
@@ -131,7 +132,7 @@ void Fridge::ondisconnect()
 
 void Fridge::setEcoMode(bool i) {
     ESP_LOGI(MODULE,"setting EcoMode to: %s", i ? "true" : "false");
-    if (!connected) return;
+    if (!connected || !client->isConnected()) return;
     if (last_status_report.Preamble == 0) return;
     struct Settings s = last_status_report.Settings;
     s.EcoMode = i;
@@ -146,7 +147,7 @@ void Fridge::setEcoMode(bool i) {
 
 void Fridge::setOnOff(bool i) {
     ESP_LOGI(MODULE,"setting ON /OFF to: %s", i ? "true" : "false");
-    if (!connected) return;
+    if (!connected || !client->isConnected()) return;
     if (last_status_report.Preamble == 0) return;
     struct Settings s = last_status_report.Settings;
     s.On = i;
@@ -161,7 +162,7 @@ void Fridge::setOnOff(bool i) {
 
 void Fridge::setTemperature(int8_t i) {
     ESP_LOGI(MODULE,"setting temperature to: %i", i);
-    if (!connected) return;
+    if (!connected || !client->isConnected()) return;
     int8_t temp = i;
     if (i < -20) temp = -20;
     if (i > 20) temp = 20;
@@ -179,7 +180,10 @@ void Fridge::connectToServer()
 
     ESP_LOGI(MODULE,"Connecting to %s", server->getAddress().toString().c_str());
 
-    client->connect(server);
+    if (!client->connect(server)) {
+        ESP_LOGW(MODULE, "connect() timed out / failed");
+        return;
+    }
 
     NimBLERemoteService *remoteService = client->getService(serviceUUID);
 
@@ -230,7 +234,7 @@ void Fridge::loop()
         doConnect = false;
     }
 
-    if (connected && millis() - lastMessageMillis > DELAY_BETWEEN_MESSAGES)
+    if (connected && client->isConnected() && millis() - lastMessageMillis > DELAY_BETWEEN_MESSAGES)
     {
         if(remoteWriteCharacteristic->writeValue(pingMessage, 6, true)) {
             lastMessageMillis = millis();         

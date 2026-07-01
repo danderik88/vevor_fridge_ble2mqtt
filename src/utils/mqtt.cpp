@@ -8,7 +8,10 @@
 
 MqttHandler::MqttHandler(void (*c)(char*, uint8_t*, unsigned int)) {
     espClient = new WiFiClient();
+    espClient->setTimeout(5);
     client = new PubSubClient(*espClient);
+    client->setSocketTimeout(5);
+    client->setKeepAlive(15);
     client->setBufferSize(1111);
     client->setServer(MQTT_SERVER, 1883);
     callback = c;
